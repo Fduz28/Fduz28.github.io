@@ -1,0 +1,74 @@
+body{
+    margin: 20px;
+    width: 450px;
+    margin-left: 35%;
+}
+
+.foto{
+    float: right;
+    width: 150px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.a{
+    text-align: center;
+}
+
+.b{
+    border: none;
+    border-top: 1px double black;
+    margin: 20px;
+}
+
+.cont1{
+    position: relative;
+    margin-left: -5%;
+}
+
+.c{
+    border: none;
+    border-top: 1px double black;
+    margin: 10px;
+}
+
+.cont2{
+    position: relative;
+    margin-left: 0%;
+}
+
+.d{
+    border: none;
+    border-top: 1px double black;
+    margin: 10px;
+}
+.cont3{
+    position: relative;
+    margin-left: 0%;
+}
+
+.e{
+    border: none;
+    border-top: 1px double black;
+    margin: 10px;
+}
+
+.cont4{
+    position: relative;
+    margin-left: 0%;
+}
+
+.f1{
+    position: static;
+    margin-left: 20%;
+    height:50px; 
+    width:50px;
+}
+
+.i1{
+    position: static;
+    margin-left: 15%;
+    height:50px; 
+    width:50px;
+}
+
